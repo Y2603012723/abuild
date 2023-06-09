@@ -1,0 +1,21 @@
+{     
+    "Abuild:CreateProject": "CreateProject",
+    "Abuild:CreateProjectNoTemplate":"CreateProjectNoTemplate",
+    "Abuild:CompileSet": "CompileSet",
+    "Abuild:CompilersEdit": "CompilersEdit",
+    "Abuild:TransferExecutionFiles": "TransferExecutionFiles",
+    "Abuild:Pack":"PackageYourProgram",
+    "Abuild.RestartIntelligencePrompt":"RestartIntelligencePrompt",
+    "greeting": "hello world!",
+    "transfer success": "transfer success",
+    "transfer fail" : "transfer fail",
+    "cleanSuccess":"clean success",
+    "fileDirNotExists":"Folder does not exist",
+    "farewell": "bye,world!",
+    "Program Packing":"Program Packing",
+    "Program Packed Success":"Program Packed Success",
+    "Program Packed Fail":"Program Packed Fail",
+    "Program Packed file not exist":"Program Packed file not exist",
+    "Shared directory not set" : "Shared directory not set",
+    "file not exist":"The transferred execution file does not exist"
+}

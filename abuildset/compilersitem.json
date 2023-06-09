@@ -1,0 +1,10 @@
+[
+  {
+    "name": "GCC STD",
+    "compilers": {
+      "c": "gcc",
+      "cplus": "g++",
+      "gdb": "gdb"
+    }
+  }
+]

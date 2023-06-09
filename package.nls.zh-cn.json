@@ -1,0 +1,21 @@
+{
+    "Abuild:CreateProject": "创建工程",    
+    "Abuild:CreateProjectNoTemplate":"创建工程不带代码模板",
+    "Abuild:CompileSet": "编译器设置", 
+    "Abuild:CompilersEdit": "编译器选项编辑",
+    "Abuild:TransferExecutionFiles": "传送执行文件",
+    "Abuild:Pack":"打包你的程序",
+    "Abuild.RestartIntelligencePrompt":"重启语言服务器",
+    "greeting": "你好，世界！",
+    "transfer success": "传送成功",
+    "transfer fail" : "传送失败",
+    "cleanSuccess":"清除成功",
+    "fileDirNotExists":"文件夹不存在",
+    "farewell": "再见，世界！",
+    "Program Packing":"程序正在打包中",
+    "Program Packed Success":"程序打包成功",
+    "Program Packed Fail":"程序打包失败",
+    "Program Packed file not exist":"打包输出文件不存在",
+    "Shared directory not set" : "未设置共享目录",
+    "file not exist":"传送的执行文件不存在"
+}
